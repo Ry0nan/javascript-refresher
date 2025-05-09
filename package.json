@@ -1,0 +1,15 @@
+{
+  "name": "javascript-refresher",
+  "version": "1.0.0",
+  "description": "just refreshing my mind with basic javascript concepts",
+  "main": "prompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
